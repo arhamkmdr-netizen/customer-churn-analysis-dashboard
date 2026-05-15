@@ -1,7 +1,26 @@
-# :octocat:Dashboard👇
-![Screenshot 2023-07-28 152259](https://github.com/yashdoshi12/Sales_report_using_PowerBi/assets/39629707/23e117f3-fd1d-4c0b-a0a7-391795d3ca79)
+# Customer Churn Analysis Dashboard
 
-<hr />
-<br />
+Interactive Power BI dashboard focused on customer churn analysis, retention trends, and operational insights.
 
-# <div align="center">Don't forget to leave a star ⭐️</div>
+## Features
+- Customer churn tracking
+- KPI monitoring
+- Retention trend analysis
+- Customer segmentation
+- Interactive visualizations
+
+## Tools Used
+- Power BI
+- Excel / CSV
+- Data Analytics
+- Business Intelligence
+
+## Objectives
+- Identify customer churn patterns
+- Analyze retention metrics
+- Improve business visibility
+- Support data-driven decisions
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
